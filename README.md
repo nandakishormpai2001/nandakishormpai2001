@@ -1,22 +1,25 @@
 ### Hi there, call me NMπ
 
-I am a Machine Learning Enthusiast and NLP Developer. 
-I enjoy being around and manipulating DATA. 
-I work on computer vision and flask when needed.
+-I am a Machine Learning Enthusiast and NLP Developer. 
+-I enjoy being around and manipulating DATA. 
+-I work on computer vision and flask when needed.
+-I create YouTube Videos currently for entrance exam aspirants.
 
-<iframe src="https://drive.google.com/file/d/1QPeosWIwqLRbjweDqjNnb8cr8_Kc-nhc/preview" width="640" height="480"></iframe>
+-[My website](nandakishormpai.co)
+-[My Resume](https://drive.google.com/file/d/1QPeosWIwqLRbjweDqjNnb8cr8_Kc-nhc/view?usp=sharing)
 
-<!--
-**nandakishormpai2001/nandakishormpai2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about Python, Machine Learning and YouTube
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Sequence Models**
+- 🌱 I’m currently learning **PyTorch**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Responsibilites
+
+- TinkerHub CET Secretary
+- 30 Days of Google Cloud Campus Facilitator
+
+## 📫 How to reach me:
+
+- [Mail Me](mailto:nandakishormpai@gmail.com)
+- [My YouTube](https://www.youtube.com/channel/UCCCkT_UmIPiloU_xlsk2dVg)
+
