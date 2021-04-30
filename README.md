@@ -4,7 +4,7 @@
 - I enjoy being around and manipulating DATA
 - I work on computer vision and flask when needed
 - I create YouTube Videos currently for entrance exam aspirants
-- [My website](nandakishormpai.co)
+- [My website](http://nandakishormpai.co/)
 - [My Resume](https://drive.google.com/file/d/1QPeosWIwqLRbjweDqjNnb8cr8_Kc-nhc/view?usp=sharing)
 
 ## 💬 Ask me about Python, Machine Learning and YouTube
