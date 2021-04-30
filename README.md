@@ -1,8 +1,10 @@
 ### Hi there, call me NMπ
 
-I am a Machine Learning Enthusiast and NLP Developer. I enjoy being around and manipulating DATA. I work on computer vision and flask when needed.
+I am a Machine Learning Enthusiast and NLP Developer. 
+I enjoy being around and manipulating DATA. 
+I work on computer vision and flask when needed.
 
-{google_docs}https://drive.google.com/file/d/1QPeosWIwqLRbjweDqjNnb8cr8_Kc-nhc/view?usp=sharing|width:200|height:200|border:1|border_style:solid|border_color:#000000{/google_docs}
+<iframe src="https://drive.google.com/file/d/1QPeosWIwqLRbjweDqjNnb8cr8_Kc-nhc/preview" width="640" height="480"></iframe>
 
 <!--
 **nandakishormpai2001/nandakishormpai2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
