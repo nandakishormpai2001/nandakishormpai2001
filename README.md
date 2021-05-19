@@ -9,7 +9,7 @@
 
 ## 💬 Ask me about Python, Machine Learning and YouTube
 
-- 🔭 I’m currently working on **Sequence Models**
+- 🔭 I’m currently working on **Seq2Seq Models**
 - 🌱 I’m currently learning **PyTorch**
 
 ## 💻 Responsibilites
