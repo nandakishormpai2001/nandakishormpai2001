@@ -12,8 +12,13 @@
 
 ## 💬 Ask me about Python, Machine Learning and YouTube
 
-- 🔭 I’m currently working on **Seq2Seq Models**
+- 🔭 I’m currently working on **Seq2Seq and Object Detection Models**
 - 🌱 I’m currently learning **PyTorch**
+
+## ✍️ Publications 
+- [Improving Model Accuracy with Transfer Learning, Data Augmentation, LR Finder, and Much More](https://blog.paperspace.com/improving-model-accuracy/)
+- [Building sharp regression models with K-Means Clustering + SVR](https://blog.paperspace.com/svr-kmeans-clustering-for-regression/)
+- [Combining Multiple Features and Multiple Outputs Using Keras Functional API](https://blog.paperspace.com/combining-multiple-features-outputs-keras/)
 
 ## 💻 Responsibilites
 
