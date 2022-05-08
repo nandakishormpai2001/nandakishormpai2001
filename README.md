@@ -5,9 +5,9 @@
 
 - I am a Machine Learning Enthusiast and NLP Developer
 - I enjoy being around and manipulating DATA
-- I work on computer vision and flask when needed
+- I work on computer vision and web-dev
 - I create YouTube Videos currently for entrance exam aspirants
-- [My website](http://nandakishormpai.co/)
+- [My website](https://nmpai.tech)
 - [My Resume](https://drive.google.com/file/d/1pvB8qXlw_5MR8j6YEqDudjvW4US2GCKA/view?usp=sharing)
 
 ## ✍️ Publications 
@@ -17,8 +17,9 @@
 
 ## 💻 Responsibilites
 
-- TinkerHub CET Tech Lead
+- TinkerHub CET Campus Lead
 - 30 Days of Google Cloud Campus Facilitator
+- TinkerHub CET Tech Lead
 
 ## 📫 How to reach me:
 
