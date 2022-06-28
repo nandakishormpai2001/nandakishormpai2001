@@ -1,6 +1,6 @@
 ## Hi there, call me NMπ
 
-[![linkedin badge](https://img.shields.io/badge/Nanda%20Kishor%20M%20Pai-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nanda-kishor-m-pai-3b7b6519a/)
+[![linkedin badge](https://img.shields.io/badge/nmpai-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nmpai/)
 [![Paperspace badge](https://img.shields.io/badge/nmpai-black?style=flat&logo=paperspace&labelColor=black)](https://blog.paperspace.com/author/nmpai/)
 
 - I am a Machine Learning Enthusiast and NLP Developer
