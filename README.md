@@ -3,7 +3,7 @@
 [![linkedin badge](https://img.shields.io/badge/nmpai-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nmpai/)
 [![Paperspace badge](https://img.shields.io/badge/nmpai-black?style=flat&logo=paperspace&labelColor=black)](https://blog.paperspace.com/author/nmpai/)
 
-- I am a Machine Learning Enthusiast and NLP Developer
+- I am a Machine Learning Developer
 - I enjoy being around and manipulating DATA
 - I work on computer vision and web-dev
 - I create YouTube Videos currently for entrance exam aspirants
