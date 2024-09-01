@@ -3,12 +3,9 @@
 [![linkedin badge](https://img.shields.io/badge/nmpai-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nmpai/)
 [![Paperspace badge](https://img.shields.io/badge/nmpai-black?style=flat&logo=paperspace&labelColor=black)](https://blog.paperspace.com/author/nmpai/)
 
-- I am a Machine Learning Developer
-- I enjoy being around and manipulating DATA
-- I work on computer vision and web-dev
-- I create YouTube Videos currently for entrance exam aspirants
-- [My website](https://nmpai.tech)
-- [My Resume](https://drive.google.com/file/d/1pvB8qXlw_5MR8j6YEqDudjvW4US2GCKA/view?usp=sharing)
+- I am a Data Scientist @ Providence India, Hyderabad
+
+- [My Resume](https://bit.ly/nmpairesume)
 
 ## ✍️ Publications 
 - [Improving Model Accuracy with Transfer Learning, Data Augmentation, LR Finder, and Much More](https://blog.paperspace.com/improving-model-accuracy/)
